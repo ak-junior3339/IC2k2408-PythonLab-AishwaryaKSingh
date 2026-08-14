@@ -14,7 +14,7 @@ else:
 	print("Quotient = ",a/b)
 	print("Remainder = ",a%b)
 
-# o/p : 
+# output : 
 #(base) ak_junior@Aishwaryas-MacBook-Air Lab-01 % python ArithmeticOperations.py 
 #Enter the First Number : 12
 #Enter the Second Number : 4
